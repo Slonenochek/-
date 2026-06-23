@@ -1,0 +1,6 @@
+{
+  "name": "Аналізатор рішень",
+  "description": "Інтелектуальний помічник для аналізу рішень, порівняння варіантів за допомогою критеріїв, SWOT-аналізу та вибору найкращого шляху за допомогою ШІ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
